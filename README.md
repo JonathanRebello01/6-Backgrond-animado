@@ -5,6 +5,7 @@ O projeto "Background animado" é um projeto simples destinado ao aprendizado da
 ## Objetivo
 
 O objetivo deste projeto é demonstrar como criar um background animado utilizando apenas CSS animations. O projeto é ideal para quem está aprendendo CSS e deseja explorar os recursos de animação disponíveis.
+Além disso,este projeto é importante por permitir a prática em ferramentas de deploy, possibilitando não apenas a criação de um site, mas também a disponibilização de suas soluções para que elas "saiam do papel".
 
 ## Como Utilizar
 
